@@ -1,0 +1,104 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+table{
+    border-color: #fff;
+}
+
+body{
+    color:#fff;
+}
+
+.wrapper{
+    background:#0c265c;
+    overflow: hidden;
+    width: 700px;
+    margin:0 auto;
+}
+
+ul {
+    padding: 0;
+    list-style-position: inside;
+}
+
+.container{
+    width:700px;
+    background:url(http://i.imgur.com/8QbMeHw.jpg) top center no-repeat;
+    min-height: 1300px;
+	padding:20px;
+}
+header{
+    height: 495px;
+}
+.my-table {
+    width:576px;
+    display: table;
+    margin:0 auto;
+}
+.my-table td {
+    padding:3px !important;
+}
+
+	
+.margin-t-40{
+	margin-top:50px;	
+}
+	
+.col{
+	text-align:justify;
+        font-size: 14px;
+}
+
+.icon{
+	font-size:30px;
+	border:2px solid #fff;
+	width: 60px;
+	height:60px;
+	line-height:60px;
+	border-radius:50%;
+	text-align:center;
+	display:table;
+	margin:0 auto;
+	margin-bottom:15px;
+}
+.text-yellow{
+    font-size:20px;
+    font-weight: bold;
+    color:yellow;
+}	
+.text-20{
+    font-size:20px;
+}
+address{
+    font-size: 12px;
+    font-weight: 100;
+}
+	
+a{
+    color:#fff;
+    
+}
+a:hover{
+    color:#fff;
+    text-decoration: underline;
+}
+
+footer .row{
+    margin-top: 35px;
+}
+footer h4{
+    font-size:14px;
+    text-transform: uppercase;
+}	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
